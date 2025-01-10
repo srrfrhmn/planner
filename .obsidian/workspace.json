@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "71ccac182b1b76d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "83b90c6fd827dbdc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f36c7b313bcc02bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-meta/templates/checkbox.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "checkbox"
+            }
+          },
+          {
+            "id": "b51da1b1d58c6adc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-meta/main/planner.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "planner"
+            }
+          },
+          {
+            "id": "0d4aa3cb5fd83777",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-objectives/_objectives.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_objectives"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "230f9844f0777435",
+    "type": "split",
+    "children": [
+      {
+        "id": "66f5e101f6650a22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97649220915c8426",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7e8e379e807f3fad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "79256960d41caed9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5
+  },
+  "right": {
+    "id": "567d5c9e5febdec5",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d1dead72a8ebf85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5029cc83ad6d78d9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "dsa/Arrays.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Arrays"
+            }
+          },
+          {
+            "id": "602336d3e3da399f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "dsa/Arrays.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Arrays"
+            }
+          },
+          {
+            "id": "0596265e1ba1385c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2086607c3057e3f0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "dsa/Arrays.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Arrays"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f36c7b313bcc02bc",
+  "lastOpenFiles": [
+    "00-meta/main/planner.md",
+    "02-finances/_finances.md",
+    "01-objectives/projects/00-active/degree-planning.md",
+    "01-objectives/projects/00-active/data-structures-algorithms.md",
+    "01-objectives/projects/01-paused/godot game.md",
+    "01-objectives/projects/_projects.md",
+    "01-objectives/tasks/_tasks.md",
+    "01-objectives/tasks/attachments/Pasted image 20250109235139.png",
+    "01-objectives/tasks/attachments/Pasted image 20250109235111.png",
+    "01-objectives/tasks/attachments",
+    "01-objectives/_objectives.md",
+    "00-meta/templates/checkbox.md",
+    "README.md",
+    "01-objectives/projects/02-planned",
+    "01-objectives/projects/01-paused",
+    "01-objectives/projects/00-active",
+    "01-objectives/projects/04-archive",
+    "02-finances/balance-sheet 1.csv",
+    "02-finances/balance-sheet.csv",
+    "02-finances/Untitled.md",
+    "02-finances",
+    "01-dsa/dynamic array.md",
+    "01-dsa/static array.md",
+    "01-dsa/Arrays.md",
+    "01-dsa/Stacks.md",
+    "00-meta/templates/dsa-template.md",
+    "00-meta/attachments",
+    "00-meta/templates",
+    "01-dsa/Sorting.md",
+    "static array.md",
+    "create a link.md",
+    "Welcome.md"
+  ]
+}
